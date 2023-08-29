@@ -1,9 +1,0 @@
-{{#user}}
-Name: Dilli Ram Shahu
-Skills: HTML, CSS, GCP, AWS, PYTHON, DOCKER, KUBERNETES, LINUX
-Email: dilliramshah4@gmail.com
-address: Banglore, India 560090
-Academic qualification: B.E in Information Science (4th sem running)
-contact no. 8217230196 
-                   www.infodilli.xyz 
-{{/user}}
